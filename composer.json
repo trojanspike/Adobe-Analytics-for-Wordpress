@@ -1,0 +1,12 @@
+{
+  "name"       : "trojanspike/Adobe-Analytics-for-Wordpress",
+  "description": "WordPress plugin to communicate with Adobe Analytics..",
+  "homepage"   : "http://na.com/",
+  "type"       : "wordpress-plugin",
+  "license"    : "GPL-2.0+",
+  "support"    : {},
+  "require"    : {
+    "php": "^5.3.3 || ^7.0",
+    "composer/installers": "~1.0"
+  }
+}
